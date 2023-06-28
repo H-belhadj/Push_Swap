@@ -70,10 +70,6 @@ If you encounter any issues with the tester or have questions about its usage, p
 
 Contributions are welcome! If you have any suggestions, bug reports, or improvements, please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
 For any inquiries or collaborations, please reach out to us at [your email address].
